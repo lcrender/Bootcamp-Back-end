@@ -1,0 +1,2 @@
+Nombre: Linux Torvalds
+Salario: 4000

@@ -1,0 +1,16 @@
+.DS_store
+node_modules/
+counter.js
+test.js
+otros.js
+otros1.1.js
+otros1.1.b.js
+otros1.2.js
+otros1.3.js
+otros1.4.js
+otros1.5.js
+otros1.5.b.js
+otros1.5.c.js
+app1.3b.js
+app1.3c.js
+app1.3d.js
